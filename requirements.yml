@@ -1,0 +1,2 @@
+:- src: git+https://github.com/tomaszsiemienik/nemm-playbook
+  version: latest
